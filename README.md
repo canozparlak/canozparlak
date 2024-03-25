@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @canozparlak
 - 👀 I’m interested in renewable energy , solar energy, software
 - 🌱 I’m currently learning SQL
-- 📫 How to reach me can@solarxplain.com
+- 📫 How to reach me https://www.linkedin.com/in/canozparlak/
 - 😄 Pronouns: john
 - ⚡ Fun fact: coffee, video games, movies, tv shows, basketball, soccer, cooking, travelling, making cocktails.
 
