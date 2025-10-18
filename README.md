@@ -5,6 +5,7 @@
 ### Founder & Product Builder | Solar Tech Entrepreneur | Automation Architect
 
 *Turning solar energy data into actionable intelligence through AI and design*
+
 [![Website](https://img.shields.io/badge/solarXplain-595978?style=for-the-badge&logo=solar&logoColor=white)](https://solarxplain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/canozparlak)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/canozparlak)
