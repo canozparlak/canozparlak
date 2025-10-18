@@ -33,7 +33,7 @@ My mission: **Simplify the complex solar ecosystem and make renewable energy ado
       <h3>🧠 solarXplainDB</h3>
       <p>AI-powered intelligence platform providing comprehensive data on solar projects, companies, market trends, and analytics</p>
       <ul>
-        <li>10,000+ solar projects tracked</li>
+        <li>Currently 400+ solar projects tracked</li>
         <li>Real-time market intelligence</li>
         <li>Predictive analytics dashboard</li>
       </ul>
@@ -113,11 +113,11 @@ My mission: **Simplify the complex solar ecosystem and make renewable energy ado
 
 ## 🎯 Current Focus
 
-- 🚀 **Launching solarXplainHUB Platform** — Beta testing with 20+ EPC companies
-- 📊 **Scaling solarXplainDB** — Expanding coverage to 15,000+ projects
-- ⚙️ **Advanced n8n Workflows** — Building AI-powered automation pipelines
-- 🤝 **Community Building** — Creating Turkey's largest solar data ecosystem
-- 📢 **Daily Content Creation** — Publishing solar sector insights & data stories
+- 🚀 **Launching solarXplainHUB Platform**
+- 📊 **Scaling solarXplainDB**
+- ⚙️ **Advanced n8n Workflows**
+- 🤝 **Community Building**
+- 📢 **Daily Content Creation**
 
 ---
 
@@ -172,17 +172,6 @@ My mission: **Simplify the complex solar ecosystem and make renewable energy ado
 
 ---
 
-## 📚 Latest Insights
-
-<!-- BLOG-POST-LIST:START -->
-- 🌞 [How AI is Transforming Solar Project Development](#)
-- 📊 [Turkey's Solar Market: 2024 Data Analysis](#)
-- ⚡ [Building B2B Automation Workflows with n8n](#)
-- 🔍 [The Future of Energy Data Platforms](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to discussing:
@@ -192,7 +181,7 @@ I'm always open to discussing:
 - ☕ Startup journey & entrepreneurship
 
 **Email:** [can@solarxplain.com](mailto:can@solarxplain.com)  
-**Calendar:** [Schedule a call](https://cal.com/canozparlak)
+**Calendar:** [Schedule a call](https://calendly.com/can-solarxplain/30min)
 
 ---
 
