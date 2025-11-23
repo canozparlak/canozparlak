@@ -23,44 +23,6 @@ My mission: **Simplify the complex solar ecosystem and make renewable energy ado
 
 ---
 
-## 🚀 What I'm Building
-
-### **solarXplain** — The Solar Industry Operating System
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🧠 solarXplainDB</h3>
-      <p>AI-powered intelligence platform providing comprehensive data on solar projects, companies, market trends, and analytics</p>
-      <ul>
-        <li>Currently 400+ solar projects tracked</li>
-        <li>Real-time market intelligence</li>
-        <li>Predictive analytics dashboard</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🔗 solarXplainHUB</h3>
-      <p>B2B procurement & quotation platform connecting EPCs with vetted suppliers and service providers</p>
-      <ul>
-        <li>Automated RFQ workflows</li>
-        <li>Supplier matching algorithm</li>
-        <li>Price comparison engine</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🌐 solarXplainDIGI</h3>
-      <p>Digital media membership system amplifying visibility and enabling targeted sectoral marketing</p>
-      <ul>
-        <li>Content distribution network</li>
-        <li>Industry news aggregation</li>
-        <li>Engagement analytics</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💼 What I Do
 ```
 🏗️  SaaS Product Development
@@ -104,21 +66,6 @@ My mission: **Simplify the complex solar ecosystem and make renewable energy ado
 ![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat-square&logo=anthropic&logoColor=white)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB5AD?style=flat-square)
 
-### **Design & Collaboration**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
----
-
-## 🎯 Current Focus
-
-- 🚀 **Launching solarXplainHUB Platform**
-- 📊 **Scaling solarXplainDB**
-- ⚙️ **Advanced n8n Workflows**
-- 🤝 **Community Building**
-- 📢 **Daily Content Creation**
-
 ---
 
 ## 📈 GitHub Activity
@@ -134,33 +81,6 @@ My mission: **Simplify the complex solar ecosystem and make renewable energy ado
 ![Profile Views](https://komarev.com/ghpvc/?username=canozparlak&color=F85D7F&style=flat-square&label=Profile+Views)
 
 </div>
-
----
-
-## 🌟 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">solarXplain Automation Workflows</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://via.placeholder.com/300x150/0D1117/F85D7F?text=n8n+Workflows" alt="Automation"/>
-        </a>
-        <p><strong>n8n, Supabase, AI</strong> - Production-ready automation pipelines for solar data processing</p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Solar Market Intelligence Dashboard</h3>
-      <div align="center">
-        <a href="#">
-          <img src="https://via.placeholder.com/300x150/0D1117/F8D866?text=Data+Dashboard" alt="Dashboard"/>
-        </a>
-        <p><strong>React, Supabase, Charts</strong> - Real-time analytics for solar market trends</p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 ---
 
