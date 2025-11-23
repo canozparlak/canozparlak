@@ -17,7 +17,7 @@
 
 ## 🌞 About Me
 
-I'm building the future of solar energy through **data, automation, and design**. As the founder of **solarXplain**, I'm creating a unified SaaS ecosystem that connects every player in the solar industry — from EPC firms and manufacturers to investors and service providers.
+I'm building the future of solar energy through **data, automation, and design**. As the founder of **solarXplain**, I'm creating a unified SaaS ecosystem that connects every player in the solar energy industry.
 
 My mission: **Simplify the complex solar ecosystem and make renewable energy adoption faster, smarter, and more transparent.**
 
