@@ -15,9 +15,9 @@ I practice **vibe coding**—using AI tools to go from idea to working app in ho
 
 🚀 **solarXplain** — AI-powered SaaS for a specific industry ([solarxplain.com](https://solarxplain.com))
 
-🍽️ **GANNUS** — Gastronomy & travel discovery app *(coming soon)*
+🍽️ Gastronomy & travel discovery app *(coming soon)*
 
-🎯 **Idea to Revenue** — Framework for shipping products fast *(coming soon)*
+🎯 Framework for shipping products fast *(coming soon)*
 
 -----
 
