@@ -92,7 +92,7 @@ I practice **vibe coding**—using AI tools to go from idea to working app in ho
 -----
 
 <p align="center">
-  ☕ Coffee · 🍔 Burgers · 🎮 FIFA · 🎵 Electronic · ⚽ Beşiktaş · 🏀 Rockets
+  ☕ Coffee · 🍔 Burgers · 🎮 FIFA · 🎵 Techno · ⚽ Beşiktaş · 🏀 Rockets
 </p>
 
 <p align="center">
