@@ -15,7 +15,7 @@ I practice **vibe coding**—using AI tools to go from idea to working app in ho
 
 🚀 **solarXplain** — AI-powered SaaS for a specific industry ([solarxplain.com](https://solarxplain.com))
 
-🙋🏻 Personal website
+🙋🏻 Personal website *(coming soon)*
 
 🍽️ Gastronomy & travel discovery app *(coming soon)*
 
