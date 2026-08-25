@@ -16,8 +16,7 @@ I spent six years in the solar energy sector — designing plants, running yield
 🚀 **solarXplain** — B2B SaaS data platform for Turkey's solar energy sector ([solarxplain.com](https://solarxplain.com))
 Built solo, end to end: modular Next.js/React app, Supabase backend with RLS and role-based auth, iyzico subscription billing, and a fleet of AI agents on n8n handling data collection, enrichment, and content pipelines. Self-hosted on Hetzner with Docker and Coolify. Concept to production, including brand, SEO, and go-to-market.
 
-**In progress**
-🙋🏻 Personal website · 🍽️ Gastronomy & travel discovery app · 🎯 Framework for shipping products fast
+🙋🏻 Personal website
 
 -----
 
@@ -37,7 +36,6 @@ Built solo, end to end: modular Next.js/React app, Supabase backend with RLS and
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & Database**
@@ -66,18 +64,6 @@ Multi-provider LLM routing, prompt engineering, RAG, OCR, and agent-based workfl
 
 -----
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=canozparlak&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=6366F1&text_color=374151" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=canozparlak&theme=graywhite&hide_border=true&background=ffffff&ring=6366F1&fire=6366F1&currStreakLabel=000000" alt="GitHub Streak" />
-</p>
-
------
-
 ## Let's Build Something
 
 **Open to:**
@@ -86,7 +72,7 @@ Multi-provider LLM routing, prompt engineering, RAG, OCR, and agent-based workfl
 - Automation & workflow projects
 - Technical co-founder opportunities
 
-**Reach out:** [canozparlak@gmail.com](mailto:canozparlak@gmail.com) · [Book a call](https://calendly.com/can-solarxplain/30min)
+**Reach out:** [canozparlak@gmail.com](mailto:canozparlak@gmail.com)
 
 -----
 
